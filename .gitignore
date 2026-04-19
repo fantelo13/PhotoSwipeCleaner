@@ -1,4 +1,7 @@
 venv/
 .venv
 testPics
-/testPics
+/testPics.
+DS_Store
+DS_Store/
+Thumbs.db
